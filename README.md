@@ -2,15 +2,33 @@
 
 This repo consist of almost seven different types of font and their numberic data.
              
-## Available Fonts
+## Available Fonts & File Structure
 
-* Acme Font
-* Agency FB
-* Algerian
-* Arial Black
-* Broadway
-* Calibri
-* Italianate
+* Data-Sets
+    * Acme Font
+        * csv_data.csv
+        * All alphabets images
+    * Agency FB
+        * csv_data.csv
+        * All alphabets images
+    * Algerian
+        * csv_data.csv
+        * All alphabets images
+    * Arial Black
+        * csv_data.csv
+        * All alphabets images
+    * Broadway
+        * csv_data.csv
+        * All alphabets images
+    * Calibri
+        * csv_data.csv
+        * All alphabets images
+    * Italianate
+        * csv_data.csv
+        * All alphabets images
+    * Fonts-SAMPLE
+        * A-Z alphabets of one fonts in one image for every font
+    * creatingCSV.py
 
 ## Contributing
 
