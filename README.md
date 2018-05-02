@@ -1,17 +1,16 @@
 # Font-Family-Recognition
 
-        This repo consist of almost seven different types of font and their numberic data.
+This repo consist of almost seven different types of font and their numberic data.
              
-###   Available Fonts
-        
-        * Acme Font
-        * Agency FB
-        * Algerian
-        * Arial Black
-        * Broadway
-        * Calibri
-        * Italianate
-        
+## Available Fonts
+
+* Acme Font
+* Agency FB
+* Algerian
+* Arial Black
+* Broadway
+* Calibri
+* Italianate
 
 ## Contributing
 
